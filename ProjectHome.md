@@ -1,0 +1,1 @@
+A template for html5 game
